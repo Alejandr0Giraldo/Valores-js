@@ -16,3 +16,9 @@ function saludarEstudiantes (estudiante) {
 }
 saludarEstudiantes("diego")
 
+function sumar (a,b) {
+    var resultado = a + b;
+    return resultado
+}
+sumar(1,2) // llamando la funcion modificando los valores podemos recibir un resultado diferente
+
